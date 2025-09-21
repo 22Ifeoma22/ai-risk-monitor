@@ -23,5 +23,5 @@ This project aligns with **ISO/IEC 42001**, **NIST AI RMF 1.0**, and **GDPR Arti
 
 ---
 
-## 🗂 Project Structure
+##  Project Structure
 
