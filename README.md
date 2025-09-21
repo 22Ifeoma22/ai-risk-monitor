@@ -25,3 +25,13 @@ This project aligns with **ISO/IEC 42001**, **NIST AI RMF 1.0**, and **GDPR Arti
 
 ##  Project Structure
 
+##  Setup & Run Locally
+
+### 1. Clone repo & install dependencies
+```bash
+git clone https://github.com/<your-username>/ai-risk-monitor.git
+cd ai-risk-monitor
+python -m venv .venv
+.\.venv\Scripts\activate   # On Windows
+source .venv/bin/activate  # On Mac/Linux
+pip install -r requirements.txt
