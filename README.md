@@ -1,4 +1,4 @@
-# 🛡 AI Risk Monitor — Continuous Model Assurance
+# AI Risk Monitor — Continuous Model Assurance
 
 A **Streamlit dashboard** for continuous AI model assurance, combining **real-time prediction**, **drift monitoring**, and **AI governance compliance mapping**.  
 This project aligns with **ISO/IEC 42001**, **NIST AI RMF 1.0**, and **GDPR Article 22**, making it a practical tool for **Responsible AI & Risk Governance**.
